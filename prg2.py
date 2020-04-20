@@ -1,11 +1,11 @@
 # This program prints Hello, world!
 
-print('Hello, world!.....')
+print('Hello, D2 D2 world!.....')
 ###==============================================================
 # This program adds two numbers
 
-num1 = 1.5
-num2 = 6.3
+num1 = 23.5
+num2 = 16.3
 
 # Add two numbers
 sum = float(num1) + float(num2)
