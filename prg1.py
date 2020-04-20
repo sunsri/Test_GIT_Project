@@ -1,8 +1,9 @@
 #####prg 1======
 
-x = 5
-y = 10
+x = 50
+y = 120
 
-x, y = y, x
-print("x =", x)
-print("y =", y)
+sum=x+y
+diff=y-x
+print("x =", sum)
+print("y =", diff)
