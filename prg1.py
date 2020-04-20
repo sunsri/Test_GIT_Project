@@ -1,8 +1,12 @@
 #####prg 1======
 
-x = 5
-y = 10
+x = 50
+y = 120
 
-x, y = y, x
-print("x =", x)
-print("y =", y)
+#sum=x+y
+#diff=y-x
+
+print("Addition =", x+y)
+print("subtract =", y-x)
+print("product =", x*y)
+print("Quotient =", int(y/x))
